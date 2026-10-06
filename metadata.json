@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix VinhUni Admissions Platform",
+  "description": "Nền tảng quản lý và công bố thông tin tuyển sinh cấu trúc thông minh cho Trường Đại học Vinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
